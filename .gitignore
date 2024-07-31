@@ -1,0 +1,24 @@
+# Ignorar arquivos e diretórios desnecessários
+.bash_history
+.cache/
+.conda/
+.gitconfig
+.ipython/
+.lesshst
+.matplotlib/
+.ssh/
+.vscode/
+.wdm/
+AppData/
+Contacts/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Music/
+NTUSER.DAT
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+myenv/
+
